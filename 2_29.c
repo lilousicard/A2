@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
+
 int main() {
     double x;
     double y;
@@ -16,7 +17,7 @@ int main() {
 
     printf("%0.2lf ",fabs(y));
 
-    printf("%0.2lf ", sqrt(pow(x*y,z)));
+    printf("%0.2lf \n", sqrt(pow(x*y,z)));
 
 
     return 0;

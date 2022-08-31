@@ -1,0 +1,21 @@
+  149  gcc 2_29.c -o 2_29.exe -lm
+  150  ./2_29.exe
+  151  ./2_25.exe
+  152  date
+  153  pwd
+  154  cd ~
+  155  cd Desktop/
+  156  ls -latr
+  157  mkdir ws2
+  158  cd ws2
+  159  ls -latr
+  160  eecho $?
+  161  echo $?
+  162  man ps
+  163  ps aux
+  164  top
+  165  history > worksheet2.log
+  166  head worksheet2.log
+  167  tail worksheet2.log
+  168  cat worksheet2.log
+  169  history > worksheet2.log
